@@ -4,49 +4,49 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <form>
     <div class="discs">
-        <input id="one" type="text" tabindex="-1" readonly>
-        <input name="one" type="radio" tabindex="-1" checked>
-        <input name="one" type="radio" tabindex="-1">
-        <input name="one" type="radio" tabindex="-1">
+        <input id="one" type="text" tabindex="-1" readonly="true" />
+        <input name="one" type="radio" tabindex="-1" checked="true" />
+        <input name="one" type="radio" tabindex="-1" />
+        <input name="one" type="radio" tabindex="-1" />
         <label for="one"></label>
         <div class="disc one"></div>
 
-        <input id="two" type="text" tabindex="-1" readonly>
-        <input name="two" type="radio" tabindex="-1" checked>
-        <input name="two" type="radio" tabindex="-1">
-        <input name="two" type="radio" tabindex="-1">
+        <input id="two" type="text" tabindex="-1" readonly="true" />
+        <input name="two" type="radio" tabindex="-1" checked="true" />
+        <input name="two" type="radio" tabindex="-1" />
+        <input name="two" type="radio" tabindex="-1" />
         <label for="two"></label>
         <div class="disc two"></div>
 
-        <input id="three" type="text" tabindex="-1" readonly>
-        <input name="three" type="radio" tabindex="-1" checked>
-        <input name="three" type="radio" tabindex="-1">
-        <input name="three" type="radio" tabindex="-1">
+        <input id="three" type="text" tabindex="-1" readonly="true" />
+        <input name="three" type="radio" tabindex="-1" checked="true" />
+        <input name="three" type="radio" tabindex="-1" />
+        <input name="three" type="radio" tabindex="-1" />
         <label for="three"></label>
         <div class="disc three"></div>
 
-        <input id="four" type="text" tabindex="-1" readonly>
-        <input name="four" type="radio" tabindex="-1" checked>
-        <input name="four" type="radio" tabindex="-1">
-        <input name="four" type="radio" tabindex="-1">
+        <input id="four" type="text" tabindex="-1" readonly="true" />
+        <input name="four" type="radio" tabindex="-1" checked="true" />
+        <input name="four" type="radio" tabindex="-1" />
+        <input name="four" type="radio" tabindex="-1" />
         <label for="four"></label>
         <div class="disc four"></div>
 
-        <input id="five" type="text" tabindex="-1" readonly>
-        <input name="five" type="radio" tabindex="-1" checked>
-        <input name="five" type="radio" tabindex="-1">
-        <input name="five" type="radio" tabindex="-1">
+        <input id="five" type="text" tabindex="-1" readonly="true" />
+        <input name="five" type="radio" tabindex="-1" checked="true" />
+        <input name="five" type="radio" tabindex="-1" />
+        <input name="five" type="radio" tabindex="-1" />
         <label for="five"></label>
         <div class="disc five"></div>
 
-        <input id="six" type="text" tabindex="-1" readonly>
-        <input name="six" type="radio" tabindex="-1" checked>
-        <input name="six" type="radio" tabindex="-1">
-        <input name="six" type="radio" tabindex="-1">
+        <input id="six" type="text" tabindex="-1" readonly="true" />
+        <input name="six" type="radio" tabindex="-1" checked="true" />
+        <input name="six" type="radio" tabindex="-1" />
+        <input name="six" type="radio" tabindex="-1" />
         <label for="six"></label>
         <div class="disc six"></div>
 
-        <input id="zero" type="text" tabindex="-1" readonly>
+        <input id="zero" type="text" tabindex="-1" readonly="true" />
 
         <div class="spacer a"></div>
         <div class="separator ab"></div>
