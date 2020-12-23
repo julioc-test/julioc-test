@@ -6,6 +6,7 @@
                 test
             </div>
             <script>
+                alert('test');
                 document.querySelector('.container').onclick = () => alert('test');
             </script>
         </div>
